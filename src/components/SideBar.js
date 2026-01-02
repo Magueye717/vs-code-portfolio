@@ -6,7 +6,7 @@ export const Sidebar = () => (
       <ul>
         <li><FontAwesomeIcon color='#996f5c' size={80} icon={faCode} /> Home </li>
         <li><FontAwesomeIcon color='#996f5c' size={80} icon={faCode} /> Experience </li>
-        <li><FontAwesomeIcon color='#996f5c' size={80} icon={faCode} /> About </li>
+        <li><FontAwesomeIcon color='#996f5c' size={80} icon={faCode} /> About Me </li>
       </ul>
     </div>
 );
