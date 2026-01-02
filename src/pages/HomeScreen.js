@@ -47,7 +47,7 @@ const PortfolioHome = () => {
               </motion.span>
             </Typography>
             <Typography variant="body2" color="#B0BEC5">
-              <Typewriter typeSpeed={20}  words={["A Full Stack Web Developer, proficient in various technologies including Node JS, Laravel, Django, GraphQL, React JS, and Redux etc."]} loop={1} cursor />
+              <Typewriter typeSpeed={20}  words={["A Full Stack Web Developer, proficient in various technologies including Node JS, Laravel, Django, GraphQL, React JS, Angular, and Redux etc."]} loop={1} cursor />
             </Typography>
           </div>
         </CardContent>
